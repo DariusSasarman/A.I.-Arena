@@ -7,13 +7,13 @@ Here's a small preview image of it, while i'm still working on it:
 ## TODO
 
 1. Front-end functionalities :
-- [ ] "Settings" section for each 
+- [ ] "Settings" section for each instance
 - [ ] "Add Instance" button next to master input (w. functionalities)
 - [ ] "Login" user section when no information cookie is detected  
-- [ ] Display responses in feedback sections
+- [ ] Display AI responses in "feedback" sections
 - [ ] Add "Error" notification that displays back-end feedback
 2. Back-end functionalities :
-- [ ] Fetch user AI info
+- [ ] Fetch user info
 - [ ] Send requests to target A.I.
 - [ ] Error handling for failed requests
 3. Server-side functionalities :
