@@ -1,7 +1,8 @@
 # Work in progress
 
 Here's a small preview image of it, while i'm still working on it:
-<img width="1534" height="868" alt="image" src="https://github.com/user-attachments/assets/1d1e20d2-d6fc-41c1-ad3f-cd852a5be84c" />
+
+<img width="1534" height="868" alt="image" src="https://github.com/user-attachments/assets/8974525f-3aa7-4fd6-bf37-e3572654f592" />
 
 ## TODO
 
