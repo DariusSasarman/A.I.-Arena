@@ -4,6 +4,12 @@
 
 This project is a **front-end and server prototype that lets you query multiple instances at once**. (for now)
 
+## Here's a video (of what it would be like) in action :
+
+https://github.com/user-attachments/assets/819bce45-a7af-498b-8229-8b882b2aa9c1
+
+**Note:** The entire AI system is only an ideea as of yet - what you see is the front-end and a mockup back-end reply.
+
 ## Here's how it works :
 
   1. You add your favourite A.I.s
@@ -11,12 +17,6 @@ This project is a **front-end and server prototype that lets you query multiple 
   3. Ask the question using the "Master Input"
   4. See what replies you get
   5. Choose the winner and keep the conversation going.
-
-## Here's a video (of what it would be like) in action :
-
-https://github.com/user-attachments/assets/819bce45-a7af-498b-8229-8b882b2aa9c1
-
-**Note:** The entire AI system is only an ideea as of yet - what you see is the front-end and a mockup back-end reply.
 
 ## Project Highlights
 
