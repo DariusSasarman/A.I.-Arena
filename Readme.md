@@ -33,4 +33,6 @@ https://github.com/user-attachments/assets/819bce45-a7af-498b-8229-8b882b2aa9c1
 - [ ] Back-end functionality that handles said "save button" request
 - [ ] Modify PY "ProcessPrompt" function such that it provides a general API call procedure
 - [ ] Provide actual security settings such that sensitive endpoints like "domain.com/A.I.s" doesn't actually provide data
-- [ ] Implement a database and security measures
+- [ ] Implement a database and implement website communication
+
+I'll keep looking for "free student APIs", but since I found no free AI APIs, this endeavour had to come to a indefinite halt. I'm open to colaborations. 
